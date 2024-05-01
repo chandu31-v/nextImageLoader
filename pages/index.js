@@ -23,3 +23,22 @@ export default function Home() {
     </>
   );
 }
+
+/*
+// staticProps can be used to pre-generate page on server and present on server
+// serversideprops can be used to generate page on server on demand
+
+// export async function getStaticProps(context) {
+
+//   const data = images
+
+//   return (
+//       {
+//           props: {
+//               data: data.events
+//           }
+//       }
+//   )
+
+// }
+*/
