@@ -42,4 +42,6 @@ Tried multiple ways to implement jest unit testing, but the unit testing is not 
 
 “Support for the experimental syntax 'jsx' isn't currently enabled.
 
+Tried to implement nextjs server side rendering, as we had only one page , could not implement it.
+
 Tried to check if any of nextjs server-side-rendering feature could be used,but did not found any use case.
